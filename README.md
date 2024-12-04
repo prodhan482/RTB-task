@@ -11,6 +11,8 @@ git clone https://github.com/prodhan482/RTB-task.git
 cd RTB-task
 ```
 
+### ** Folder location: path/xampp/htdocs/RTB-task **
+
 ### **2. Test For getting the response **
 
 ```bash
