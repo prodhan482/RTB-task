@@ -1,5 +1,5 @@
 <?php
-$url = 'http://localhost/task/bidreq.php';
+$url = 'http://localhost/RTB-task/bidreq.php';
 $data = file_get_contents('bid_request.json');
 
 if (!$data) {
